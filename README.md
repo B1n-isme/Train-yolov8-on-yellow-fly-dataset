@@ -1,3 +1,3 @@
 Yellow Flies Detection
 
-[image](https://github.com/user-attachments/assets/0d64f84a-8b3e-4405-9c76-4e4a06a810a0)
+![SCR-20250127-kodg](https://github.com/user-attachments/assets/716db760-709a-4e6d-8842-08e701e3582c)
